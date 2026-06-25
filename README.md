@@ -38,17 +38,17 @@ It uses a pre-trained YOLOv8 model for object detection and the SORT algorithm f
 
    When you run the program:
 
-   -Webcam window opens
+    1) Webcam window opens
    
-   -Objects are detected in real-time
+    2) Objects are detected in real-time
    
-   -Bounding boxes are drawn around objects
+    3) Bounding boxes are drawn around objects
    
-   -Each object is labeled (person, bottle, phone, etc.)
+    4) Each object is labeled (person, bottle, phone, etc.)
    
-   -Each object gets a unique tracking ID (ID 1, ID 2, etc.)
+    5) Each object gets a unique tracking ID (ID 1, ID 2, etc.)
    
-   -Objects are tracked across frames even when they move
+    6) Objects are tracked across frames even when they move
 
 7. Workflow of the System
    
